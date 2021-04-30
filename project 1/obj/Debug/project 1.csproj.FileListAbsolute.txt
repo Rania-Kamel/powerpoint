@@ -1,0 +1,20 @@
+C:\Users\rania\Desktop\project 1\project 1\bin\Debug\project 1.exe.config
+C:\Users\rania\Desktop\project 1\project 1\bin\Debug\project 1.exe
+C:\Users\rania\Desktop\project 1\project 1\bin\Debug\project 1.pdb
+C:\Users\rania\Desktop\project 1\project 1\obj\Debug\project 1.csprojAssemblyReference.cache
+C:\Users\rania\Desktop\project 1\project 1\obj\Debug\project_1.Form1.resources
+C:\Users\rania\Desktop\project 1\project 1\obj\Debug\project_1.Properties.Resources.resources
+C:\Users\rania\Desktop\project 1\project 1\obj\Debug\project 1.csproj.GenerateResource.cache
+C:\Users\rania\Desktop\project 1\project 1\obj\Debug\project 1.csproj.CoreCompileInputs.cache
+C:\Users\rania\Desktop\project 1\project 1\obj\Debug\project 1.exe
+C:\Users\rania\Desktop\project 1\project 1\obj\Debug\project 1.pdb
+C:\Users\rania\Desktop\project c#\project-c\project 1\bin\Debug\project 1.exe.config
+C:\Users\rania\Desktop\project c#\project-c\project 1\bin\Debug\project 1.exe
+C:\Users\rania\Desktop\project c#\project-c\project 1\bin\Debug\project 1.pdb
+C:\Users\rania\Desktop\project c#\project-c\project 1\obj\Debug\project 1.csprojAssemblyReference.cache
+C:\Users\rania\Desktop\project c#\project-c\project 1\obj\Debug\project_1.Form1.resources
+C:\Users\rania\Desktop\project c#\project-c\project 1\obj\Debug\project_1.Properties.Resources.resources
+C:\Users\rania\Desktop\project c#\project-c\project 1\obj\Debug\project 1.csproj.GenerateResource.cache
+C:\Users\rania\Desktop\project c#\project-c\project 1\obj\Debug\project 1.csproj.CoreCompileInputs.cache
+C:\Users\rania\Desktop\project c#\project-c\project 1\obj\Debug\project 1.exe
+C:\Users\rania\Desktop\project c#\project-c\project 1\obj\Debug\project 1.pdb
